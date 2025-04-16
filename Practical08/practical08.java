@@ -5,7 +5,7 @@ public class practical08 {
 // Database connection details
         String url = "jdbc:mysql://localhost:3306/lab10";
         String user = "root";
-        String password = Vishakh#9876";
+        String password = "Vishakh#9876";
         try {
 // Step 1: Load the JDBC driver (Optional in modern Java versions)
             Class.forName("com.mysql.cj.jdbc.Driver");
