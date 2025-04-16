@@ -7,7 +7,7 @@ class Empolyee{
 
     Empolyee(){
         id = 01;
-        name = "Prathamesh";
+        name = "Vishakh";
         salary = 999999;
     }
 
